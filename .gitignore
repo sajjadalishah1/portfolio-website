@@ -1,0 +1,4 @@
+# Ignore design source files
+*.psd
+*.ai
+*.tif
